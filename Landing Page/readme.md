@@ -24,15 +24,5 @@ A sleek and modern landing page inspired by the bold and dynamic identity of Nik
 
 ---
 
-## 📸 Preview
 
-> [Click here to see the live demo](https://your-deployment-link.com)
-
-Or view this preview:
-
-![Nike Landing Page Preview](https://your-image-link.com/preview.gif) <!-- Replace with actual GIF or screenshot -->
-
----
-
-## 📁 Folder Structure
 
