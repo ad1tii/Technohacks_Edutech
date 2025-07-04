@@ -2,7 +2,7 @@
 
 **TaskFlow** is a sleek, minimalistic to-do list web application designed to help you stay organized and productive. Built with **HTML**, **CSS**, and **JavaScript**, it offers a responsive and distraction-free user interface for managing daily tasks.
 
-![Workflow Preview](https://your-image-link.com/preview.png) <!-- Optional preview image -->
+
 
 ---
 
