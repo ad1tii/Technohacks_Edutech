@@ -30,14 +30,33 @@ A stylish and interactive product card built with pure HTML, CSS, and JavaScript
 
 Interns need to complete any 3 tasks of their choice from the following list:
 
-- Task 1: Landing Page - Create a basic landing page for a company or product with a header, footer, and basic information.
-- Task 2: Personal Portfolio Page - Build a personal portfolio website to showcase skills, experience, and projects.
-- Task 3: Calculator - Develop a calculator app that performs basic math operations.
- -Task 4: Currency Converter - Create a currency converter app that converts between different currencies.
-- Task 5: Develop a Countdown Timer - Create a countdown timer that counts down from a set time to zero, with options to stop, reset, and restart the timer.
-- Task 6: Create a Registration Form - Develop a registration form for a website or app, complete with input validation and error messages.
-- Task 7: Build a Login Page - Create a login page for a website or app, complete with input validation and password hashing.
-- 
+- Task 1: Landing Page
+Create a basic landing page for a company or product that includes a header, footer, and essential information.
+
+- Task 2: Personal Portfolio Page
+Build a personal portfolio website to showcase skills, experience, and projects.
+
+- Task 3: Calculator
+Develop a calculator app that performs basic math operations.
+
+- Task 4: Currency Converter
+Create a currency converter app that converts between different currencies.
+
+- Task 5: Countdown Timer
+Develop a countdown timer that counts down from a set time to zero, with controls to stop, reset, and restart.
+
+- Task 6: Registration Form
+Build a registration form for a website or app, complete with input validation and error messages.
+
+- Task 7: Login Page
+Create a login page for a website or app, full of input validation and password hashing.
+
+- Task 8: To‑Do List App
+Build a simple to-do list application using HTML, CSS, and JavaScript.
+
+- Task 9: Product Card UI
+Design a responsive product card component displaying image, title, description, and price.
+
 ## Contact Information 📞📧
 
 - Email: info@technohacks.co.in
