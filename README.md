@@ -6,8 +6,8 @@ TechnoHacks is an IT training and product company that offers top-notch training
 - 📚 Landing Page (Nike): 
 A sleek and responsive Nike landing page built using pure HTML, CSS, and JavaScript. Inspired by Nike’s bold branding, this project features a modern hero section, interactive animations, product highlights, and smooth scrolling effects. Designed with a mobile-first approach, it captures the essence of Nike’s energetic and dynamic style — perfect for showcasing athletic products or brand campaigns.
 
-- 🧮 TaskFlow- Todo Web Application: [View](https://classy-smakager-04ca0d.netlify.app)
-A simple and elegant Task Flow / To-Do List web app built using HTML, CSS, and JavaScript. This project allows users to add, edit, delete, and mark tasks as complete in a clean, user-friendly interface. Designed with a responsive layout and smooth UI interactions, the app also includes features like local storage for saving tasks, a dynamic task counter, and light/dark mode toggle. Perfect for learning DOM manipulation and organizing daily tasks effectively. 🖩🔢
+- 🧮 TaskFlow- Todo Web Application:
+A simple and elegant Task Flow / To-Do List web app built using HTML, CSS, and JavaScript. This project allows users to add, edit, delete, and mark tasks as complete in a clean, user-friendly interface. Designed with a responsive layout and smooth UI interactions, the app also includes features like local storage for saving tasks, a dynamic task counter, and light/dark mode toggle. Perfect for learning DOM manipulation and organizing daily tasks effectively. 🖩🔢 [View](https://classy-smakager-04ca0d.netlify.app)
 
 - 💱 Product Card: 
 A stylish and interactive product card built with pure HTML, CSS, and JavaScript — no libraries, no frameworks. Designed to enhance any modern e-commerce UI, this component features smooth transitions, hover effects, star ratings, pricing display, and a functional “Add to Cart” button. Fully responsive and customizable, this product card is perfect for showcasing items with elegance and simplicity across all devices. 💲🔄🌍
