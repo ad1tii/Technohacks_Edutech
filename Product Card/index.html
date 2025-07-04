@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Product Card</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="theme-toggle">
+            <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle theme">
+                <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="5"></circle>
+                    <path d="M12 1v2M12 21v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M1 12h2M21 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4"></path>
+                </svg>
+                <svg class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path>
+                </svg>
+            </button>
+        </div>
+
+        <div class="product-card">
+            <div class="product-badge">Sale</div>
+            
+            <div class="product-image-container">
+                <img src="https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg" 
+                     alt="Wireless Headphones" 
+                     class="product-image">
+            </div>
+
+            <div class="product-info">
+                <h2 class="product-name">Premium Wireless Headphones</h2>
+                <p class="product-description">
+                    Experience crystal-clear audio with these premium wireless headphones featuring noise cancellation and 30-hour battery life.
+                </p>
+                
+                <div class="product-rating">
+                    <div class="stars">
+                        <span class="star filled">★</span>
+                        <span class="star filled">★</span>
+                        <span class="star filled">★</span>
+                        <span class="star filled">★</span>
+                        <span class="star half">★</span>
+                    </div>
+                    <span class="rating-text">4.5 (128 reviews)</span>
+                </div>
+
+                <div class="product-price">
+                    <span class="price-current">Rs.1999.99</span>
+                    <span class="price-original">Rs.2999.99</span>
+                </div>
+
+                <button class="add-to-cart-btn" id="add-to-cart">
+                    <svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17M17 13v4a2 2 0 01-2 2H9a2 2 0 01-2-2v-4.01"></path>
+                    </svg>
+                    <span class="btn-text">Add to Cart</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
