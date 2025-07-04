@@ -18,7 +18,7 @@ A stylish and interactive product card built with pure HTML, CSS, and JavaScript
 - Post an offer letter on LinkedIn and tag the company page and mentor.
 - Submit all completed tasks in the Task Submission Form and wait for the certificate via email.
 - Post a video explanation of each task on LinkedIn and tag TechnoHacks and Mr. Sandip Gavit.
-- 
+  
 ## General Instructions 📝
 
 - 🔗 Stay connected with TechnoHacks' social platforms, including Telegram, LinkedIn, and YouTube.
